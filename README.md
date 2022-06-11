@@ -119,4 +119,4 @@ The annotations in the LEVIR-Ship dataset are licensed under a [Creative Commons
 
 ![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)
 
-We do not own the copyright of the images. Use of the images must abide by [the China Centre For Resources Satelite Data and Application Terms of Use](http://36.112.130.153:7777/DSSPlatform/index.html).
+We do not own the copyright of the images. Use of the images must abide by [China Centre For Resources Satellite Data and Application Terms of Use](http://36.112.130.153:7777/DSSPlatform/index.html).
