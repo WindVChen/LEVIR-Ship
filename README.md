@@ -33,7 +33,7 @@ We will complete the arrangement of the dataset and its related tools within thr
 ## Introduction
 ![LEVIR-Ship](Dataset.png)
 
-Images in **LEVIR-Ship** are captured from multispectral cameras of **GaoFen-1 and GaoFen-6** satellites with a spatial resolution of ***16m***. We only use the R, G, and B bands. 85 scenes have been collected in the dataset with pixel resolutions between 10000×10000 and 50000×20000. We crop the original images to finally get 1973 positive samples and 1903 negative samples with the size of 512×512. 
+Images in **LEVIR-Ship** are captured from multispectral cameras of **GaoFen-1 and GaoFen-6** satellites with a spatial resolution of ***16m***. We only use the R, G, and B bands. 85 scenes have been collected in the dataset with pixel resolutions between 10000×10000 and 50000×20000. We crop the original images to finally get 1973 positive samples and 1923 negative samples with the size of 512×512. 
 
 To our most knowledge, LEVIR-Ship is **the first public tiny ship detection dataset specific to medium-resolution remote sensing images**.
 
