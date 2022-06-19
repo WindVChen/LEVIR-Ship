@@ -1,5 +1,5 @@
 # LEVIR-Ship: A Large-Scale Tiny Ship Detection Dataset under Medium-Resolution Remote Sensing Images
-![visitors](https://visitor-badge.glitch.me/badge?page_id=windvchen.LEVIR-Ship1.visitor)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=windvchen.LEVIR-Ship.visitor)
 ![GitHub stars](https://badgen.net/github/stars/WindVChen/LEVIR-Ship)
 [![](https://img.shields.io/badge/code--license-MIT-brightgreen)](#License)
 ![CC BY 4.0](https://img.shields.io/badge/dataset--license-CC%20BY%204.0-lightgrey)
