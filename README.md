@@ -1,5 +1,5 @@
 # LEVIR-Ship: A Large-Scale Tiny Ship Detection Dataset under Medium-Resolution Remote Sensing Images
-![visitors](https://visitor-badge.glitch.me/badge?page_id=windvchen.LEVIR-Ship.visitor)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=windvchen.LEVIR-Ship1.visitor)
 ![GitHub stars](https://badgen.net/github/stars/WindVChen/LEVIR-Ship)
 [![](https://img.shields.io/badge/code--license-MIT-brightgreen)](#License)
 ![CC BY 4.0](https://img.shields.io/badge/dataset--license-CC%20BY%204.0-lightgrey)
@@ -11,6 +11,10 @@ This is the official release of the LEVIR-Ship dataset in "A Degraded Reconstruc
 If you encounter any question, please feel free to contact us. You can create an issue or just send email to me windvchen@gmail.com. Also welcome for any idea exchange and discussion.
 
 ## Updates
+
+***06/19/2022***
+ 
+Add visualized comparisons of different resolution datasets. Update the citation content.
 
 ***06/11/2022***
  
@@ -64,6 +68,11 @@ To our most knowledge, LEVIR-Ship is **the first public tiny ship detection data
 
 
 ## Attribute
+### Compared with high-resolution datasets 
+![Resolution Visualization](Resolution.png)
+
+Descriptions: Samples of 512 × 512 size from different datasets. (a) Samples from the airbus ship detection Competition dataset with a spatial resolution of ***2m and higher***. (b) Samples from the LEVIR-Ship dataset with a spatial resolution of ***16m*** (zoomed in for better visualization).
+
 ### Compared with other datasets 
 | Dataset | Images Number |Instances Number | Source | Resolution | Year |
 |:---|:---:|:---:|:---:| :---:| :---:|
@@ -106,9 +115,9 @@ If you make use of LEVIR-Ship dataset in your research, please cite:
   journal={IEEE Transactions on Geoscience and Remote Sensing},
   title={A Degraded Reconstruction Enhancement-based Method for Tiny Ship Detection in Remote Sensing Images with A New Large-scale Dataset},
   year={2022},
-  volume={},
+  volume={60},
   number={},
-  pages={1-1},
+  pages={1-14},
   doi={10.1109/TGRS.2022.3180894}}
 ```
 
